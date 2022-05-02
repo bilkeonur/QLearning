@@ -1,10 +1,11 @@
 # QLearning
-QLearning Algorithm Solver
+QLearning Algorithm Solver\
+You can make mazes and solve them
 
 # App Screens
-![Intro](https://github.com/bilkeonur/QLearning/blob/main/Images/Intro.png)
-![Intro](https://github.com/bilkeonur/QLearning/blob/main/Images/Maze.png)
-![Intro](https://github.com/bilkeonur/QLearning/blob/main/Images/Solving.png)
+![Intro](https://github.com/bilkeonur/QLearning/blob/main/Images/Intro.png)\
+![Intro](https://github.com/bilkeonur/QLearning/blob/main/Images/Maze.png)\
+![Intro](https://github.com/bilkeonur/QLearning/blob/main/Images/Solving.png)\
 
 # About The Author
 
