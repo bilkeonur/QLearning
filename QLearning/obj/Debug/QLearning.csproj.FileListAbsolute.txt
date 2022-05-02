@@ -1,0 +1,13 @@
+C:\Users\Onur\Desktop\QLearning\QLearning\bin\Debug\QLearning.exe.config
+C:\Users\Onur\Desktop\QLearning\QLearning\bin\Debug\QLearning.exe
+C:\Users\Onur\Desktop\QLearning\QLearning\bin\Debug\QLearning.pdb
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.Form1.resources
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.Form2.resources
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.Form3.resources
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.Form4.resources
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.Properties.Resources.resources
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.exe
+C:\Users\Onur\Desktop\QLearning\QLearning\obj\Debug\QLearning.pdb
